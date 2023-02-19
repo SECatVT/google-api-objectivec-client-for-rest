@@ -902,7 +902,7 @@ let package = Package(
             targets: ["GoogleAPIClientForREST_ServiceUsage"]
         ),
         .library(
-            name: "GoogleAPIClientForREST_Sheets",
+            name: "Sheets_GoogleAPIClientForREST",
             targets: ["GoogleAPIClientForREST_Sheets"]
         ),
         .library(
